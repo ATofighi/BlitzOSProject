@@ -1,0 +1,11 @@
+*.o
+asm
+dumpObj
+lddd
+blitz
+diskUtil
+hexdump
+check
+endian
+kpl
+*.log
