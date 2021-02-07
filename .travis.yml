@@ -1,3 +1,6 @@
+compiler:
+  - gcc
+
 matrix:
   include:
     # works on Precise and Trusty
